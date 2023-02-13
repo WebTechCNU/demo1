@@ -1,0 +1,11 @@
+.main_block {
+    text-align: center;
+    border: 5px solid red;
+    padding: 10px;
+    vertical-align: center;
+    margin:auto;
+}
+
+.input {
+    padding: auto;
+}
